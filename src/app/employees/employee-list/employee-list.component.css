@@ -1,0 +1,20 @@
+/*h1{ font-family: Arial, Helvetica, sans-serif; color: green;}
+p{font-size: 250%; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: bold;}
+body{ background-color: pink;}*/
+body{background-color:aquamarine;}
+h1{color: fuchsia; font-family: fantasy; font-variant: small-caps; text-align: center; border:5px solid orange; border-radius: 10px; background-color: wheat;;;}
+.n{list-style-type: none; background-color: moccasin;}
+h3{color: gold; font-variant: small-caps; text-align:center;}
+.album{margin:0 0 2em 0;padding: 0;}
+.album thead {width: 10em }
+.album th tr{cursor: pointer;position: relative;left: 0;background-color: #eee;margin: .3em;border-width:1px;
+    list-style:none;  padding: .3em 0; height: 1.6em;  border-radius: 4px; font-family: fantasy;}
+.album tr:hover{color:#607d8b;background-color: #ddd; left:.1em;}
+.album tr.selected{background-color: #cfd8dc;color: white;}
+.album tr.selected:hover{background-color: #bbd8dC;color:white;}
+.album .badge{display:inline-block;font-size: small; ;color: white;padding: 0.8em 0.7em 0 0.7em;height: 1.8em;
+                background-color: #405061;line-height:3em;position:relative;left:-1px;top:-4px;margin-right: .8em;
+                border-radius: 1px 0 0 1px;}
+                
+                
+
